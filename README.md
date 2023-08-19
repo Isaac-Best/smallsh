@@ -4,7 +4,7 @@ Important Note: There are two `smallsh` implementations in this parent directory
 
 Please note that the modularized version is still a work in progress and not yet a complete representation of the final code. (It does run and pass the provided testscript 100%)
 
-There will be an associated tutorial / blog post for this when I'm done editing (will be linked here)
+There will be an associated tutorial / blog post for this when I'm done editing. [HERE](https://nextjs-blog-6upu.vercel.app/)
 
 What I want to implement:
 * I'd like to run a lint / formatter check on the code 
